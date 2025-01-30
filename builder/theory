@@ -1,0 +1,4 @@
+The build pattern is a good option when:
+	- The constructor has several optional parameters;
+	- We want our code to be able to create different representations of some product;
+	- Construct Composite trees or other complex objects
